@@ -10,7 +10,9 @@ namespace git_cs
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("佐藤俊彦");
+            Console.WriteLine("彦佐藤俊");
+            Console.WriteLine("俊彦佐藤");
         }
     }
 }
