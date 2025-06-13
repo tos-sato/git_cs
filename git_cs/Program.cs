@@ -13,6 +13,7 @@ namespace git_cs
             Console.WriteLine("佐藤俊彦");
             Console.WriteLine("彦佐藤俊");
             Console.WriteLine("俊彦佐藤");
+            Console.WriteLine("藤俊彦佐");
         }
     }
 }
